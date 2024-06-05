@@ -1,3 +1,4 @@
+# Lair Lights DMX Controller
 
 Use an ESP-32 and a MAX485 to control DMX lights. Has a web-based interface so you can interface with it from other devices.
 
